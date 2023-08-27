@@ -24,6 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 Add data about each game as a card to the games-container:
 <img src='http://[i.imgur.com/link/to/your/gif/file.gif](https://i.imgur.com/E5RsAC7.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 Create the summary statistics at the top of the page:
 <img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://i.imgur.com/cSbPPuM.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 Add functions to filter the funded and unfunded games:
